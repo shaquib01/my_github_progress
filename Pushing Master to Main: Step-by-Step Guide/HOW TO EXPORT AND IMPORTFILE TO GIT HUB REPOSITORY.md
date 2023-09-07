@@ -1,6 +1,6 @@
-#### To export and import files to a GitHub repository, you can follow these steps:
+# To export and import files to a GitHub repository, you can follow these steps:
 
-### Exporting Files from a GitHub Repository:
+## Exporting Files from a GitHub Repository:
 
 1. Open your web browser and navigate to the GitHub repository you want to export files from.
 
@@ -10,7 +10,7 @@
 
 4. Extract the contents of the ZIP file to a location on your local machine. You now have the exported files from the GitHub repository.
 
-### Importing Files to a GitHub Repository:
+## Importing Files to a GitHub Repository:
 
 1. Create a new repository on GitHub, or navigate to an existing repository where you want to import the files.
 
@@ -58,5 +58,5 @@
 
    This command pushes the changes from your local repository to the remote repository on GitHub.
 
-## After executing these steps, the files will be imported to your GitHub repository. You can verify this by visiting the repository on GitHub and checking if the files are present.
+### After executing these steps, the files will be imported to your GitHub repository. You can verify this by visiting the repository on GitHub and checking if the files are present.
 
